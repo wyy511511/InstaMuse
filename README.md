@@ -5,6 +5,7 @@
 
 ## **Short Title:** 
 InstaMuse: a Virtual Photography Studio
+
 Amber Wu
 
 ---
@@ -41,7 +42,7 @@ The "InstaMuse" is an immersive XR experience that simulates the art of photogra
 4. User adjusts the model's pose, orientation, and then captures a photo.
 5. Users can review their shots, compare them, and even share or save them.
 
-https://s.studiobinder.com/wp-content/uploads/2021/05/Basic-butterfly-lighting-setup.jpg?resolution=2294,0.75
+![butterfly lighting](https://s.studiobinder.com/wp-content/uploads/2021/05/Basic-butterfly-lighting-setup.jpg?resolution=2294,0.75)
 
 
 ---
